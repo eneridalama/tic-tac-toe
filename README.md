@@ -1,2 +1,4 @@
-#Tic-Tac-Toe Game
-#Preview: https://eneridalama.github.io/tic-tac-toe/
+Tic-Tac-Toe Game
+
+
+Preview: https://eneridalama.github.io/tic-tac-toe/
